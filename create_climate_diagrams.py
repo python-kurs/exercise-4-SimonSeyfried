@@ -1,3 +1,9 @@
+#sorry dafür, dass ich ein file in dem Zustand abgebe, mir ist bekannt,
+#dass ich Lücken habe, würde aber trotzdem versuchen den Kurs weiter
+#zu machen und noch nicht aufgeben. Dementsprechend versuche ich
+#auch iwie Punkte in den Hausaufgaben zu sammeln...
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
